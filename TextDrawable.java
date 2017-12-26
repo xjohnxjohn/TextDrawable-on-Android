@@ -1,5 +1,3 @@
-package com.my.demo.dlib;
-
 import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
@@ -12,8 +10,6 @@ import android.graphics.PixelFormat;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.widget.ImageView;
-
-import com.squareup.haha.perflib.Main;
 
 import static java.security.AccessController.getContext;
 
